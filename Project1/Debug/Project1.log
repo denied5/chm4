@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\google drive\лабы\2 курс мама\чисельні методи\pr4\project1\source.cpp(25): warning C4305: инициализация: усечение из "double" в "float"
+d:\google drive\лабы\2 курс мама\чисельні методи\pr4\project1\source.cpp(118): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\google drive\лабы\2 курс мама\чисельні методи\pr4\project1\source.cpp(134): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project1.vcxproj -> D:\Google Drive\Лабы\2 курс мама\чисельні методи\pr4\Debug\Project1.exe
